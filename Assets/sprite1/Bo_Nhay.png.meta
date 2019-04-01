@@ -1,0 +1,1065 @@
+fileFormatVersion: 2
+guid: f40ca9b259dccd04fb66409e6c319726
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Bo_Nhay_0
+    21300002: Bo_Nhay_1
+    21300004: Bo_Nhay_2
+    21300006: Bo_Nhay_3
+    21300008: Bo_Nhay_4
+    21300010: Bo_Nhay_5
+    21300012: Bo_Nhay_6
+    21300014: Bo_Nhay_7
+    21300016: Bo_Nhay_8
+    21300018: Bo_Nhay_9
+    21300020: Bo_Nhay_10
+    21300022: Bo_Nhay_11
+    21300024: Bo_Nhay_12
+    21300026: Bo_Nhay_13
+    21300028: Bo_Nhay_14
+    21300030: Bo_Nhay_15
+    21300032: Bo_Nhay_16
+    21300034: Bo_Nhay_17
+    21300036: Bo_Nhay_18
+    21300038: Bo_Nhay_19
+    21300040: Bo_Nhay_20
+    21300042: Bo_Nhay_21
+    21300044: Bo_Nhay_22
+    21300046: Bo_Nhay_23
+    21300048: Bo_Nhay_24
+    21300050: Bo_Nhay_25
+    21300052: Bo_Nhay_26
+    21300054: Bo_Nhay_27
+    21300056: Bo_Nhay_28
+    21300058: Bo_Nhay_29
+    21300060: Bo_Nhay_30
+    21300062: Bo_Nhay_31
+    21300064: Bo_Nhay_32
+    21300066: Bo_Nhay_33
+    21300068: Bo_Nhay_34
+    21300070: Bo_Nhay_35
+    21300072: Bo_Nhay_36
+    21300074: Bo_Nhay_37
+    21300076: Bo_Nhay_38
+    21300078: Bo_Nhay_39
+    21300080: Bo_Nhay_40
+    21300082: Bo_Nhay_41
+    21300084: Bo_Nhay_42
+    21300086: Bo_Nhay_43
+    21300088: Bo_Nhay_44
+    21300090: Bo_Nhay_45
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 0
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 0
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Bo_Nhay_0
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 5675
+        width: 309
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 944ca38c74f0a6f468b03ec7b008c854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bo_Nhay_1
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 5675
+        width: 309
+        height: 605
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 804d4152b4d031f468d29a0232e391b1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bo_Nhay_2
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 5675
+        width: 309
+        height: 605
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 719a2df20d4447141942bfaf1e40f24c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bo_Nhay_3
+      rect:
+        serializedVersion: 2
+        x: 1596
+        y: 5675
+        width: 309
+        height: 605
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fe931f1d8f684542abff39c74b5e8a1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bo_Nhay_4
+      rect:
+        serializedVersion: 2
+        x: 2096
+        y: 5675
+        width: 309
+        height: 608
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 538dc436886752d49981dc9d42bf5b97
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bo_Nhay_5
+      rect:
+        serializedVersion: 2
+        x: 2595
+        y: 5675
+        width: 310
+        height: 608
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca5b5701e4e1b634b85684b439bfe08f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bo_Nhay_6
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 4875
+        width: 319
+        height: 612
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f198412c1a438f4b832d9717432efb7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bo_Nhay_7
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 4875
+        width: 328
+        height: 612
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 966c2eacc6d612940afd5ccbf44db740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bo_Nhay_8
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 4875
+        width: 335
+        height: 612
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa901e99e9a934e468df1731783149c6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bo_Nhay_9
+      rect:
+        serializedVersion: 2
+        x: 1561
+        y: 4875
+        width: 344
+        height: 605
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ad145f68e9a60a4e9d9a629da4507ce
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bo_Nhay_10
+      rect:
+        serializedVersion: 2
+        x: 2052
+        y: 4875
+        width: 353
+        height: 605
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad74d07ee98a6e347bc49715d43f3842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bo_Nhay_11
+      rect:
+        serializedVersion: 2
+        x: 2542
+        y: 4875
+        width: 366
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 517545ad67fdb5e438181202ed9efa52
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bo_Nhay_12
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 4075
+        width: 353
+        height: 605
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3975847e505c06a44a532889bb34eaaa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bo_Nhay_13
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 4075
+        width: 344
+        height: 605
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 329e2c9c8aebed54285fc0c1d640f121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bo_Nhay_14
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 4075
+        width: 335
+        height: 612
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2707592b21b3af5418ddb2d13d4de53b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bo_Nhay_15
+      rect:
+        serializedVersion: 2
+        x: 1577
+        y: 4075
+        width: 328
+        height: 612
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30cd78e3863805049ab9c2ea9c2848dd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bo_Nhay_16
+      rect:
+        serializedVersion: 2
+        x: 2086
+        y: 4075
+        width: 319
+        height: 612
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f7d43b760af1b24fbba6e976fbd1594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bo_Nhay_17
+      rect:
+        serializedVersion: 2
+        x: 2595
+        y: 4075
+        width: 310
+        height: 608
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a06febc9aae5144f9bb27a293709c81
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bo_Nhay_18
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 3275
+        width: 309
+        height: 608
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4931b83961327c34ba80e2b0d3f5f055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bo_Nhay_19
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 3275
+        width: 309
+        height: 605
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b35ee36a416a4b9408f2f051f7a8c7b2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bo_Nhay_20
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 3275
+        width: 309
+        height: 605
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2b8fc2020d44d14ba2c4167123b8770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bo_Nhay_21
+      rect:
+        serializedVersion: 2
+        x: 1596
+        y: 3275
+        width: 309
+        height: 605
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cfd6f03c8183c646b2db28fcaf63263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bo_Nhay_22
+      rect:
+        serializedVersion: 2
+        x: 2096
+        y: 3275
+        width: 309
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 310f49b7a10bff149aa8256d75481b5c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bo_Nhay_23
+      rect:
+        serializedVersion: 2
+        x: 2596
+        y: 3275
+        width: 309
+        height: 601
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 362ab9bfd9e3bbd46a9dc482b4190988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bo_Nhay_24
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 2475
+        width: 309
+        height: 601
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c0f5cb11f84d1e4ca055394e8cee196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bo_Nhay_25
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 2475
+        width: 309
+        height: 598
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac3bdbcfd69c23f46a49348351271797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bo_Nhay_26
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 2475
+        width: 309
+        height: 601
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eed3a0c342cd23841b92f72db88479b1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bo_Nhay_27
+      rect:
+        serializedVersion: 2
+        x: 1596
+        y: 2475
+        width: 309
+        height: 598
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11c1a7420a73f464b8f9e0d3d3fb556f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bo_Nhay_28
+      rect:
+        serializedVersion: 2
+        x: 2096
+        y: 2475
+        width: 309
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b1d02ae84174354a9f8e950a3bb39f3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bo_Nhay_29
+      rect:
+        serializedVersion: 2
+        x: 2596
+        y: 2475
+        width: 309
+        height: 601
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fbb08777fa2fff4c9f848ad5cb22648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bo_Nhay_30
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1675
+        width: 309
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f416878d50dfc647975a17d8bd3f7e1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bo_Nhay_31
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 1675
+        width: 315
+        height: 601
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96d51169e9452c44f87a7ecca0ae9878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bo_Nhay_32
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 1675
+        width: 321
+        height: 601
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f83fd579ad41e3645a27f4213974e971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bo_Nhay_33
+      rect:
+        serializedVersion: 2
+        x: 1595
+        y: 1675
+        width: 325
+        height: 601
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19eeb570897072d44b761497abbb72c6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bo_Nhay_34
+      rect:
+        serializedVersion: 2
+        x: 2089
+        y: 1675
+        width: 338
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8bfb875933c9314a9eb823a180c9452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bo_Nhay_35
+      rect:
+        serializedVersion: 2
+        x: 2595
+        y: 1675
+        width: 325
+        height: 601
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec335c1e02a47224fbcd70b6c6d57830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bo_Nhay_36
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 875
+        width: 321
+        height: 601
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dde35240d3dd59a41a5946623e811d98
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bo_Nhay_37
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 875
+        width: 315
+        height: 601
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63ed5009fe6b0524fa5d056812679965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bo_Nhay_38
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 875
+        width: 309
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42ffa41fe982e0e4aab395c59030fdce
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bo_Nhay_39
+      rect:
+        serializedVersion: 2
+        x: 1596
+        y: 875
+        width: 309
+        height: 601
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e893e516ccf85445afb41edfd966a26
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bo_Nhay_40
+      rect:
+        serializedVersion: 2
+        x: 2096
+        y: 875
+        width: 309
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5a693bf3f885f04e9dcffbd67c2edcf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bo_Nhay_41
+      rect:
+        serializedVersion: 2
+        x: 2596
+        y: 875
+        width: 309
+        height: 598
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 746eb899a80785d4994abcd28f24faf9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bo_Nhay_42
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 75
+        width: 309
+        height: 601
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f344dc02d5f562f41950f217509aeec8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bo_Nhay_43
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 75
+        width: 309
+        height: 598
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bee0dda9b13f4dc4f91404746c8eaba6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bo_Nhay_44
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 75
+        width: 309
+        height: 601
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a24d12c417523f243917cb25951a7158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bo_Nhay_45
+      rect:
+        serializedVersion: 2
+        x: 1596
+        y: 75
+        width: 309
+        height: 601
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69e0884bcc3091f4caff5b53572bae7c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 147af2a2c278c05488a9ab6bb074b1dc
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
